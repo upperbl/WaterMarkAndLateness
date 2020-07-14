@@ -1,0 +1,4 @@
+package com.protocol
+
+case class UserBehavior( userId: Long, itemId: Long, categoryId: Int, behavior: String, timestamp: Long )
+case class UserViewCount(itemId: Long,window:Long, cnt: Long )

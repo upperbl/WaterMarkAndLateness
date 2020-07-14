@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1291c5e-4c39-4f9e-8096-a2a20e63c91e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\apache-maven-3.6.0\mavenworkhone" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ec1SLblXyaCKqrw4cWigcH154s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\data\IdeaCode\NetWorkAnalysis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserBehaviorAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="UserBehaviorAnalysis" />
+      <module name="NetWorkAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserBehaviorAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1291c5e-4c39-4f9e-8096-a2a20e63c91e" name="Default Changelist" comment="" />
+      <created>1594606065662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594606065662</updated>
+      <workItem from="1594606069476" duration="43521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="118" key="#Auto_Import" timestamp="1594622771801">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="395" y="118" key="#Auto_Import/0.0.1600.860@0.0.1600.860" timestamp="1594622771801" />
+    <state x="395" y="118" key="#Project_Structure" timestamp="1594617221107">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="395" y="118" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1594617221107" />
+    <state x="512" y="206" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1594634199600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="206" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594634199600" />
+    <state x="533" y="215" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594623610348" />
+    <state x="605" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1594610918284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1594610918284" />
+    <state x="420" y="108" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1594606297494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="420" y="108" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.860@0.0.1600.860" timestamp="1594606297494" />
+    <state width="1489" height="421" key="GridCell.Tab.0.bottom" timestamp="1594714770570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1489" height="421" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594714770570" />
+    <state width="1560" height="393" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594623380166" />
+    <state width="1489" height="421" key="GridCell.Tab.0.center" timestamp="1594714770570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1489" height="421" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594714770570" />
+    <state width="1560" height="393" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594623380166" />
+    <state width="1489" height="421" key="GridCell.Tab.0.left" timestamp="1594714770569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1489" height="421" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594714770569" />
+    <state width="1560" height="393" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594623380165" />
+    <state width="1489" height="421" key="GridCell.Tab.0.right" timestamp="1594714770570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1489" height="421" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594714770570" />
+    <state width="1560" height="393" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594623380166" />
+    <state width="1560" height="296" key="GridCell.Tab.1.bottom" timestamp="1594620030599">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="296" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594620030599" />
+    <state width="1560" height="296" key="GridCell.Tab.1.center" timestamp="1594620030599">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="296" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1594620030599" />
+    <state width="1560" height="296" key="GridCell.Tab.1.left" timestamp="1594620030599">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="296" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1594620030599" />
+    <state width="1560" height="296" key="GridCell.Tab.1.right" timestamp="1594620030599">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1560" height="296" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1594620030599" />
+  </component>
+</project>
